@@ -1,12 +1,9 @@
 ### Bug or Feature (DELETE A WORD)
 
-
-### Assigned (Yes/No)
-
 ### Associated Ticket
 
 
-# FEATURE
+## FEATURE
 
 ### Description
 
@@ -15,7 +12,7 @@
 
 
 
-#BUG
+## BUG
 ### Expected Behavior
 
 ### Actual Behavior
