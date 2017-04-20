@@ -6,9 +6,10 @@
 - tutorial/tuturial/settings.py
 
 #### Edited
+- tutorial/tuturial/quickstart/admin.py
 
 #### Deleted
-
+- tutorial/tuturial/quickstart/potato.py
 
 ## FEATURE
 
