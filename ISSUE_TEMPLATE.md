@@ -1,5 +1,3 @@
-### Bug or Feature (DELETE A WORD)
-
 ### Associated Ticket
 
 
