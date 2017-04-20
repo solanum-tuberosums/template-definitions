@@ -1,8 +1,8 @@
 ## Associated Ticket
 
 ## Files Touched
-- example.py
-- foobar.py
+- tutorial/tuturial/quickstart/models.py
+- tutorial/tuturial/settings.py
 
 ## FEATURE
 
